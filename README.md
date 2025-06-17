@@ -33,7 +33,7 @@ Install dependencies
 
 ---
 
-3. Run the app locally
+Run the app locally
 
 -npm start
 The app will open at http://localhost:3000.
@@ -45,10 +45,15 @@ Build Command: npm run build
 
 Publish Directory: build
 
-👤 Author
-Sayandeep Saha
-📧 sayandeepsaha70@gmail.com
-🔗 GitHub Profile
+---
+
+## 👤 Author
+
+**Sayandeep Saha**  
+📧 [sayandeepsaha.work@gmail.com](mailto:sayandeepsaha.70@gmail.com)  
+🔗 [GitHub Profile](https://github.com/Sayandeep-cpu)
+
+---
 
 📄 License
 This project is licensed under the MIT License.
