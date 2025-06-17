@@ -50,7 +50,7 @@ Publish Directory: build
 ## 👤 Author
 
 **Sayandeep Saha**  
-📧 [sayandeepsaha.work@gmail.com](mailto:sayandeepsaha.70@gmail.com)  
+📧 [sayandeepsaha.70@gmail.com](mailto:sayandeepsaha.70@gmail.com)  
 🔗 [GitHub Profile](https://github.com/Sayandeep-cpu)
 
 ---
